@@ -244,6 +244,6 @@ You should have worked with **one of the following:**
 
 [Vuesax - Vue.js Framework](https://lusaxweb.github.io/vuesax/): Explore Vuesax, a Vue.js framework with a focus on Google's Material Design.
 
-[Vue - The Complete Guide (incl. Router & Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/): Vue - The Complete Guide (incl. Router & Composition API) by Maximilian Schwarzmüller
+[Vue - The Complete Guide (incl. Router & Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/): Vue - The Complete Guide (incl. Router & Composition API) by Maximilian
 
 [Complete Vue Developer Bootcamp (Pinia, Vitest))](https://www.udemy.com/course/complete-vue-js-developer-zero-to-mastery-vuex/): Complete Vue Developer Bootcamp (Pinia, Vitest) by ZTM
