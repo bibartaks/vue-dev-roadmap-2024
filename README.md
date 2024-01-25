@@ -224,7 +224,7 @@ You should have worked with **one of the following:**
 
 ## Resources to learn Vue.js
 
-> Some free resources that might help you achieve your goal of becoming a Vue.js Developer
+> Some free and paid resources that might help you achieve your goal of becoming a Vue.js Developer
 
 [Vue.js Official Documentation](https://v3.vuejs.org/guide/introduction.html): The official documentation is a comprehensive guide to understanding and using Vue.js.
 
@@ -244,4 +244,6 @@ You should have worked with **one of the following:**
 
 [Vuesax - Vue.js Framework](https://lusaxweb.github.io/vuesax/): Explore Vuesax, a Vue.js framework with a focus on Google's Material Design.
 
-### More resources are coming soon!
+[Vue - The Complete Guide (incl. Router & Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/): Vue - The Complete Guide (incl. Router & Composition API) by Maximilian Schwarzmüller
+
+[Complete Vue Developer Bootcamp (Pinia, Vitest))](https://www.udemy.com/course/complete-vue-js-developer-zero-to-mastery-vuex/): Complete Vue Developer Bootcamp (Pinia, Vitest) by ZTM
