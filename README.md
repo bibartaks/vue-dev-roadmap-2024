@@ -247,3 +247,7 @@ You should have worked with **one of the following:**
 [Vue - The Complete Guide (incl. Router & Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/): Vue - The Complete Guide (incl. Router & Composition API) by Maximilian
 
 [Complete Vue Developer Bootcamp (Pinia, Vitest))](https://www.udemy.com/course/complete-vue-js-developer-zero-to-mastery-vuex/): Complete Vue Developer Bootcamp (Pinia, Vitest) by ZTM
+
+## Some Vue Interview question resources 
+
+> Here are some resources that can help you land a job as a Vue developer.
