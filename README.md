@@ -253,5 +253,7 @@ You should have worked with **one of the following:**
 > Here are some resources that can help you land a job as a Vue developer.
 
 
-[Vie Interview Questions and Answers](https://github.com/sudheerj/vuejs-interview-questions): Vue Interview Questions and Answers.
+[Vue Interview Questions and Answers](https://github.com/sudheerj/vuejs-interview-questions): Vue Interview Questions and Answers.
+[Top 100 Vue.js Interview Questions](https://github.com/Devinterview-io/vue-interview-questions): Top 100 Vue.js Interview Questions.
+
 
